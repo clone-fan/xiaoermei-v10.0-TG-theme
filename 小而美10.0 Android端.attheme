@@ -1,0 +1,51 @@
+// 基础界面背景与分割线
+windowBackgroundWhite=#FFFFFFFF
+windowBackgroundGray=#FFF3F3F3
+divider=#FFE3E3E3
+
+// 顶栏 (对标 PC 的 titleBg)
+actionBarDefault=#FFF3F3F3
+actionBarDefaultTitle=#FF191919
+actionBarDefaultIcon=#FF191919
+actionBarDefaultSelector=#FFD8D8D8
+
+// 会话列表
+chats_name=#FF191919
+chats_message=#FF999999
+chats_date=#FFB2B2B2
+
+// 状态与提示 (排雷对标)
+chats_actionMessage=#FF07C160
+chats_draft=#FFFA5151
+chats_unreadCounter=#FFFA5151
+chats_unreadCounterText=#FFFFFFFF
+chats_verifiedBackground=#FF07C160
+chats_verifiedCheck=#FFFFFFFF
+chats_onlineCircle=#FF07C160
+
+// 聊天气泡与背景
+chat_wallpaper=#FFF3F3F3
+chat_inBubble=#FFFFFFFF
+chat_outBubble=#FF95EC69
+chat_inBubbleSelected=#FFEBEBEB
+chat_outBubbleSelected=#FF85DB59
+
+// 气泡内文字与时间
+chat_messageTextIn=#FF191919
+chat_messageTextOut=#FF191919
+chat_inTimeText=#FFB2B2B2
+chat_outTimeText=#FF75C051
+chat_messageLinkIn=#FF576B95
+chat_messageLinkOut=#FF576B95
+
+// 底部输入框
+chat_messagePanelBackground=#FFFFFFFF
+chat_messagePanelIcons=#FF4C4C4C
+chat_messagePanelSend=#FF07C160
+
+// 系统级控件绿化
+switchTrackChecked=#FF07C160
+checkboxSquareBackground=#FF07C160
+radioBackgroundChecked=#FF07C160
+windowBackgroundWhiteBlueText=#FF07C160
+windowBackgroundWhiteBlueHeader=#FF07C160

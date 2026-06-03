@@ -1,0 +1,28 @@
+{
+  "name": "WeChat 10.0",
+  "basedOn": "day",
+  "dark": false,
+  "variables": {
+    "accent": "#07C160",
+    "background": "#FFFFFF",
+    "listBackground": "#FFFFFF",
+    "navigationBar": "#F3F3F3",
+    "primaryText": "#191919",
+    "secondaryText": "#999999",
+    "destructive": "#FA5151",
+    
+    "chatBackground": "#F3F3F3",
+    "bubbleIn": "#FFFFFF",
+    "bubbleOut": "#95EC69",
+    "bubbleTextIn": "#191919",
+    "bubbleTextOut": "#191919",
+    "bubbleInfoIn": "#B2B2B2",
+    "bubbleInfoOut": "#75C051",
+    
+    "actionButton": "#07C160",
+    "actionButtonText": "#FFFFFF",
+    "check": "#07C160",
+    "switch": "#07C160",
+    "link": "#576B95"
+  }
+}

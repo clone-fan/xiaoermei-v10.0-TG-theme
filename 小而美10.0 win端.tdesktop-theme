@@ -1,0 +1,142 @@
+// 小而美 10.0 PC 探底排雷版 (全面消灭深层原生蓝)
+
+// --- 1. 全局基础 ---
+windowBg: #ffffff;
+windowFg: #191919;
+windowSubFg: #999999;
+dividerColor: #e3e3e3;
+
+// --- 2. 顶栏标题栏 ---
+titleBg: #f3f3f3;
+titleBgActive: #f3f3f3;
+titleFg: #191919;
+titleFgActive: #191919;
+
+// --- 3. 最左侧一级主菜单栏 ---
+sideBarBg: #e1e1e1;
+sideBarBgActive: #d8d8d8;
+sideBarTextFg: #555555;
+sideBarTextFgActive: #07c160;
+sideBarIconFg: #555555;
+sideBarIconFgActive: #07c160;
+sideBarBadgeBg: #fa5151;
+sideBarBadgeBgMuted: #999999;
+sideBarBadgeFg: #ffffff;
+
+// --- 4. 顶部文件夹分类栏 ---
+filterBg: #ffffff;
+filterTextFg: #999999;
+filterActiveLineFg: #07c160;
+filterTextFgActive: #07c160;
+filterTextFgActiveOver: #06ad56;
+filterTextActiveFg: #07c160;
+filterActiveTextFg: #07c160;
+
+// --- 5. 中间会话列表栏 (核心排雷区) ---
+dialogsBg: #ffffff;
+dialogsBgOver: #f5f5f5;
+dialogsBgActive: #07c160;
+
+dialogsBgPinned: #f7f7f7;
+dialogsBgPinnedOver: #ebebeb;
+dialogsBgPinnedActive: #07c160;
+
+dialogsNameFg: #191919;
+dialogsNameFgOver: #191919;
+dialogsNameFgActive: #ffffff;
+dialogsTextFg: #999999;
+dialogsTextFgOver: #999999;
+dialogsTextFgActive: #ffffff;
+dialogsDateFg: #b2b2b2;
+dialogsDateFgOver: #b2b2b2;
+dialogsDateFgActive: #ffffff;
+
+// ⚡ 【排雷】修复 image_e84b77.png 中的蓝色正在输入
+dialogsTypingFg: #07c160;             // 文字改为微信绿
+dialogsTypingIconFg: #07c160;         // 动画图标改为微信绿
+dialogsTypingFgActive: #ffffff;
+dialogsTypingIconFgActive: #ffffff;
+
+// ⚡ 【排雷】草稿提示改为标准微信红
+dialogsDraftFg: #fa5151;
+dialogsDraftFgOver: #fa5151;
+dialogsDraftFgActive: #ffffff;
+
+// ⚡ 【排雷】消灭头像右下角的原生蓝在线点
+dialogsOnlineBadgeFg: #07c160;
+dialogsOnlineBadgeFgActive: #ffffff;
+
+// ⚡ 【排雷】消灭官方群/机器人的“蓝V”认证
+dialogsVerifiedIconBg: #07c160;
+dialogsVerifiedIconBgOver: #07c160;
+dialogsVerifiedIconBgActive: #ffffff;
+dialogsVerifiedIconFg: #ffffff;
+dialogsVerifiedIconFgActive: #07c160;
+
+// 未读与免打扰逻辑
+dialogsTextFgService: #999999;
+dialogsTextFgServiceOver: #999999;
+dialogsTextFgServiceActive: #ffffff;
+dialogsUnreadBg: #fa5151;
+dialogsUnreadFg: #ffffff;
+dialogsUnreadBgMuted: #ffffff00;
+dialogsUnreadFgMuted: #b2b2b2;
+dialogsUnreadBgPinned: #fa5151;
+dialogsUnreadBgMutedPinned: #ffffff00;
+
+// --- 6. 右侧主聊天历史视窗 ---
+historyBg: #f3f3f3;
+historyInBg: #ffffff;
+historyInBgOver: #ffffff;
+historyOutBg: #95ec69;
+historyOutBgOver: #95ec69;
+historyOutBgSelected: #85db59;
+msgOutBg: #95ec69;
+msgOutBgOver: #95ec69;
+msgOutBgSelected: #85db59;
+
+// ⚡ 【排雷】修复气泡内引用/回复消息的左侧竖条颜色
+msgInReplyBarColor: #e3e3e3;          // 接收消息的引用线：浅灰
+msgOutReplyBarColor: #75c051;         // 发送消息的引用线：深绿
+msgInReplyBarSelColor: #d4d4d4;
+msgOutReplyBarSelColor: #65a845;
+
+// 文字与细节颜色
+msgInFg: #191919;
+msgOutFg: #191919;
+msgDateInFg: #b2b2b2;
+msgDateOutFg: #75c051;
+msgServiceFg: #ffffff;
+msgServiceBg: #c0c0c080;
+historyLinkInFg: #576b95;              
+historyLinkOutFg: #576b95;
+
+// --- 7. 底部输入框区域 ---
+historyComposeAreaBg: #ffffff;
+historyComposeAreaInnerBg: #ffffff;
+historyReplyBg: #ffffff;
+historyReplyIconFg: #4c4c4c;
+historySendIconFg: #07c160;
+historySendIconFgOver: #06ad56;
+
+// --- 8. 全局底层清洗 ---
+accentColor: #07c160;
+activeButtonBg: #07c160;
+activeButtonFg: #ffffff;
+activeButtonBgOver: #06ad56;
+
+lightButtonFg: #07c160;
+lightButtonFgOver: #06ad56;
+menuTextFgActive: #07c160;
+boxTextFgActive: #07c160;
+inputFgActive: #07c160;
+
+checkboxFg: #07c160;
+radioFgActive: #07c160;
+sliderBgActive: #07c160;
+menuIconFgActive: #07c160;
+
+filterInputInactiveBg: #e2e2e2;
+filterInputActiveBg: #ffffff;
+scrollBarBg: #00000010;
+scrollBarBgOver: #00000020;
